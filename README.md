@@ -105,7 +105,7 @@ Una aplicación de comercio electrónico desarrollada con React Native que ofrec
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-aplicacion.git`
+1. Clona el repositorio: `git clone https://github.com/slopezbrandimarte/entregaFinalReactNative`
 2. Instala las dependencias: `npm install`
 3. Configura las claves de API para servicios externos (Expo-Location, Firebase, etc.).
 4. Configura las credenciales de Firebase en tu proyecto.
